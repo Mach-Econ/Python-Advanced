@@ -3,3 +3,4 @@ This is the descriptive document of the first homework. Under the same path, I h
 1. Install Anaconda or PyCharm and execute all the codes mentioned before.
   - In Python-01.ipynb
 2. Write Python code to output the 9*9 multiplication table in the format given.
+  - In Homework1.ipynb
